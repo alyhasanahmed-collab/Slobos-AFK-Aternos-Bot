@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OrbitSMP-play.aternos.me:60311",
+    "ip": "OrbitSMP-play.aternos.me",
     "port": 60311,
     "version": "1.21.11",
     "try-creative": false
