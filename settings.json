@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I am a bot by the way",
+        "I am a bot by the way"
       ]
     },
     "chat-log": true,
