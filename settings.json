@@ -1,13 +1,13 @@
 {
-  "name": "AFK 2 Bot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "iorbitusm",
+    "username": "AFK BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OrbitSMP-play.aternos.me",
-    "port": 60311,
+    "ip": "Marksmp-play-fun.aternos.me",
+    "port": 34845,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "I wish this smp had more commands",
-        "i love ts smp",
-        "ths smp is really good"
+        "I am a bot by the way",
       ]
     },
     "chat-log": true,
